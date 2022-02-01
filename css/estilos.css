@@ -565,7 +565,7 @@ footer{
   justify-self: end;
 }
 
-@media (max-width:760px){
+@media (max-width:425px){
   .slider_body{
     grid-template-columns: 1fr;
     grid-template-rows: max-content 1fr;
@@ -583,7 +583,7 @@ footer{
   }
 }
 
-@media (max-width:425px){
+@media (max-width:250px){
   .slider_body{
     grid-template-columns: 25px 1fr 25px;
   }
